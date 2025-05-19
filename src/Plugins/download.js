@@ -658,7 +658,7 @@ module.exports = [ {
       });
 
       const caption =
-        `🎶 *KANGO-XMD - SPOTIFY DOWNLOADER*\n` +
+        `🎶 *Mustafizur-bot - SPOTIFY DOWNLOADER*\n` +
         `🎧 *Title:* ${title}\n` +
         `🧑‍🎤 *Artist:* ${artist}\n` +
         `💽 *Album Artist:* ${album_artist}\n` +
@@ -718,7 +718,7 @@ module.exports = [ {
       });
 
       const caption =
-        `🎶 *KANGO-XMD - PLAYER*\n` +
+        `🎶 *Mustafizur-bot - PLAYER*\n` +
         `🎧 *Title:* ${video.title}\n` +
         `👀 *Views:* ${video.views}\n` +
         `⏳ *Duration:* ${video.timestamp}\n` +
@@ -1284,5 +1284,5 @@ module.exports = [ {
       });
       reply("❌ Failed to remove background. Make sure your image is valid and try again.");
     }
-  }
+  } const .tegall {only grp admin }
 } ];
